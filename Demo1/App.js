@@ -12,7 +12,7 @@ const  App=()=> {
   return (
     <View >
       <Text >
-       This is my project fgdgfdhd gfhfj
+       This is my project fgdgfdhd gfhfj third
       </Text>
       
     </View>
